@@ -21,7 +21,7 @@ public class practica {
 	        for (int i = 1; i < subArray.length; i++) { // Empezamos desde el segundo elemento
 	            difference -= subArray[i];
 	        }
-	        
+       
 		// User 3 fer la multiplicació dels elements de prodArrays
 	}
 
